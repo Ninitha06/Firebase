@@ -1,0 +1,21 @@
+1. Go to console.firebase.google.com and login using gmail id.
+2.Create New Project -> Give any name.
+3. Disable Google Analytics for project. We dont need it.
+4. Click continue
+5. Go to Database on the left side menu.
+6. Scroll down to Realtime Database on the main screen.
+7. Create database
+8. Choose [start in test mode]
+9. Click Enable.
+10. Enter Child nodes as follows
+	Project name
+		-> ball
+			->position
+				->x value : 250
+				-> y value : 200
+11. Go to Project Overview -> Project Settings by clicking on gear icon on the left side menu.
+12. Select Web based app [< /> symbol]
+13. Enter a name. No need firebase hosting. Register app.
+14. Copy the entire config and paste it in index.html file after including all libraries.
+15. copy the first link and paste and change app to database at the end of that link.
+16. Click on continue to console in firebase database screen.
