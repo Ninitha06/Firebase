@@ -2,7 +2,7 @@
 2.Create New Project -> Give any name.
 3. Disable Google Analytics for project. We dont need it.
 4. Click continue
-5. Go to Database on the left side menu.
+5. Go to Database/Develop on the left side menu.
 6. Scroll down to Realtime Database on the main screen.
 7. Create database
 8. Choose [start in test mode]
